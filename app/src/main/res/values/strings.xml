@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">radius_demo</string>
+    <string name="title_activity_maps">Demo</string>
+    <string name="radius_textView">Radius</string>
+</resources>
